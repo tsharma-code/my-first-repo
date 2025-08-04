@@ -1,3 +1,3 @@
 my-first-repo.
 <br>
-Author - Tushar Sharma
+Author - Tushar Kaushik
